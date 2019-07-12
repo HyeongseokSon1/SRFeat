@@ -1,5 +1,5 @@
 # SRFeat: Single Image Super-Resolution with Feature Discrimination
-This is the implementation of the models and source code for the "SRFeat: Single Image Super-Resolution with Feature Discrimination", ECCV2018. [project](http://cg.postech.ac.kr/research/srfeat/)
+This is the implementation of the models and source code for the "SRFeat: Single Image Super-Resolution with Feature Discrimination", ECCV2018. [[project](http://cg.postech.ac.kr/research/srfeat/)]
 
 # File description
 - config.py: inlucde configuration for file paths and hyper parameters for networks
